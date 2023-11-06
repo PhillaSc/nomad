@@ -1,7 +1,7 @@
 # nomad
 <title>O cassino mais famoso do Brasil - Nomad Games</title>
 
-<p>Aventure-se no mundo imersivo do Nomad Games Casino, um refúgio para entusiastas de jogos. O <a href="https://br.nomadgames.com/">Nomad Casino</a> oferece uma fuga para a emoção do acaso e entretenimento. Quer você seja um jogador experiente ou um recém-chegado curioso, nossa seleção diversificada de jogos e serviços de alta qualidade atende a todos.</p>
+<p>Aventure-se no mundo imersivo do Nomad Games Casino, um refúgio para entusiastas de jogos. O <a href="https://br.nomadgames.com/">Nomad Games</a> oferece uma fuga para a emoção do acaso e entretenimento. Quer você seja um jogador experiente ou um recém-chegado curioso, nossa seleção diversificada de jogos e serviços de alta qualidade atende a todos.</p>
 
 <p>De slots clássicos de frutas a slots de vídeo de última geração, nossa coleção tem algo para todos os gostos. Também oferecemos jogos de mesa como blackjack, roleta e poker para aqueles que apreciam um pouco de estratégia. Se você se sente com sorte, experimente nossos jogos de jackpot progressivo, onde vitórias que mudam a vida estão ao seu alcance.</p>
 
